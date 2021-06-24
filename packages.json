@@ -1,0 +1,32 @@
+[
+  {
+    "package": "arkhe",
+    "url": "https://github.com/tesselle/arkhe",
+    "branch" : "master"
+  },
+  {
+    "package": "dimensio",
+    "url": "https://github.com/tesselle/dimensio",
+    "branch" : "master"
+  },
+  {
+    "package": "folio",
+    "url": "https://github.com/tesselle/folio",
+    "branch" : "master"
+  },
+  {
+    "package": "kairos",
+    "url": "https://github.com/tesselle/kairos",
+    "branch" : "master"
+  },
+  {
+    "package": "khroma",
+    "url": "https://github.com/tesselle/khroma",
+    "branch" : "master"
+  },
+  {
+    "package": "tabula",
+    "url": "https://github.com/tesselle/tabula",
+    "branch" : "master"
+  }
+]
