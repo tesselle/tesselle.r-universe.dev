@@ -28,5 +28,10 @@
     "package": "tabula",
     "url": "https://github.com/tesselle/tabula",
     "branch" : "master"
+  },
+  {
+    "package": "tekton",
+    "url": "https://github.com/tesselle/tekton",
+    "branch" : "master"
   }
 ]
