@@ -10,6 +10,11 @@
     "branch" : "master"
   },
   {
+    "package": "fasti",
+    "url": "https://github.com/tesselle/fasti",
+    "branch" : "master"
+  },
+  {
     "package": "folio",
     "url": "https://github.com/tesselle/folio",
     "branch" : "master"
