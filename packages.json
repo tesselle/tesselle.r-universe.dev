@@ -2,46 +2,46 @@
   {
     "package": "arkhe",
     "url": "https://github.com/tesselle/arkhe",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "dimensio",
     "url": "https://github.com/tesselle/dimensio",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "fasti",
     "url": "https://github.com/tesselle/fasti",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "folio",
     "url": "https://github.com/tesselle/folio",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "janus",
     "url": "https://github.com/tesselle/janus",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "khroma",
     "url": "https://github.com/tesselle/khroma",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "tabula",
     "url": "https://github.com/tesselle/tabula",
-    "branch" : "master"
+    "branch" : "main"
   },
   {
     "package": "tekton",
     "url": "https://github.com/tesselle/tekton",
-    "branch" : "master"
+    "branch" : "main"
   }
 ]
