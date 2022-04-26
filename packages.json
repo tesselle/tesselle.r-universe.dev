@@ -5,6 +5,11 @@
     "branch" : "main"
   },
   {
+    "package": "chronos",
+    "url": "https://github.com/tesselle/chronos",
+    "branch" : "master"
+  },
+  {
     "package": "dimensio",
     "url": "https://github.com/tesselle/dimensio",
     "branch" : "main"
