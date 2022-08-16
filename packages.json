@@ -25,11 +25,6 @@
     "branch" : "main"
   },
   {
-    "package": "janus",
-    "url": "https://github.com/tesselle/janus",
-    "branch" : "main"
-  },
-  {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
     "branch" : "main"
