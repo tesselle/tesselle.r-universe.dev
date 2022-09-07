@@ -40,6 +40,11 @@
     "branch" : "main"
   },
   {
+    "package": "nexus",
+    "url": "https://github.com/tesselle/nexus",
+    "branch" : "main"
+  },
+  {
     "package": "tabula",
     "url": "https://github.com/tesselle/tabula",
     "branch" : "main"
