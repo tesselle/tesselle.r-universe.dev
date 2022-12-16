@@ -1,5 +1,10 @@
 [
   {
+    "package": "aion",
+    "url": "https://github.com/tesselle/aion",
+    "branch" : "main"
+  },
+  {
     "package": "alkahest",
     "url": "https://github.com/tesselle/alkahest",
     "branch" : "main"
