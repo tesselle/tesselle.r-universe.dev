@@ -35,6 +35,11 @@
     "branch" : "main"
   },
   {
+    "package": "isopleuros",
+    "url": "https://github.com/tesselle/isopleuros",
+    "branch" : "main"
+  },
+  {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
     "branch" : "main"
