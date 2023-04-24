@@ -25,11 +25,6 @@
     "branch" : "main"
   },
   {
-    "package": "fasti",
-    "url": "https://github.com/tesselle/fasti",
-    "branch" : "main"
-  },
-  {
     "package": "folio",
     "url": "https://github.com/tesselle/folio",
     "branch" : "main"
