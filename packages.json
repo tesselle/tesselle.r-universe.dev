@@ -1,67 +1,63 @@
 [
   {
     "package": "aion",
-    "url": "https://github.com/tesselle/aion",
-    "branch" : "main"
+    "url": "https://github.com/tesselle/aion"
   },
   {
     "package": "alkahest",
     "url": "https://github.com/tesselle/alkahest",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "arkhe",
     "url": "https://github.com/tesselle/arkhe",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "chronos",
-    "url": "https://github.com/tesselle/chronos",
-    "branch" : "master"
+    "url": "https://github.com/tesselle/chronos"
   },
   {
     "package": "dimensio",
     "url": "https://github.com/tesselle/dimensio",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "folio",
     "url": "https://github.com/tesselle/folio",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "isopleuros",
-    "url": "https://github.com/tesselle/isopleuros",
-    "branch" : "main"
+    "url": "https://github.com/tesselle/isopleuros"
   },
   {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "khroma",
     "url": "https://github.com/tesselle/khroma",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "nexus",
-    "url": "https://github.com/tesselle/nexus",
-    "branch" : "main"
+    "url": "https://github.com/tesselle/nexus"
   },
   {
     "package": "tabula",
     "url": "https://github.com/tesselle/tabula",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "tekton",
     "url": "https://github.com/tesselle/tekton",
-    "branch" : "main"
+    "branch" : "*release"
   },
   {
     "package": "tesselle",
     "url": "https://github.com/tesselle/tesselle",
-    "branch" : "main"
+    "branch" : "*release"
   }
 ]
