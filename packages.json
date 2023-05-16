@@ -29,7 +29,8 @@
   },
   {
     "package": "isopleuros",
-    "url": "https://github.com/tesselle/isopleuros"
+    "url": "https://github.com/tesselle/isopleuros",
+    "branch" : "*release"
   },
   {
     "package": "kairos",
