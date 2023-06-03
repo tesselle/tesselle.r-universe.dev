@@ -14,10 +14,6 @@
     "branch" : "*release"
   },
   {
-    "package": "chronos",
-    "url": "https://github.com/tesselle/chronos"
-  },
-  {
     "package": "dimensio",
     "url": "https://github.com/tesselle/dimensio",
     "branch" : "*release"
