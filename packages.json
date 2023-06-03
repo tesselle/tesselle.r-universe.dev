@@ -9,6 +9,10 @@
     "branch" : "*release"
   },
   {
+    "package": "ananke",
+    "url": "https://github.com/tesselle/ananke"
+  },
+  {
     "package": "arkhe",
     "url": "https://github.com/tesselle/arkhe",
     "branch" : "*release"
