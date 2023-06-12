@@ -1,7 +1,8 @@
 [
   {
     "package": "aion",
-    "url": "https://github.com/tesselle/aion"
+    "url": "https://github.com/tesselle/aion",
+    "branch" : "*release"
   },
   {
     "package": "alkahest",
