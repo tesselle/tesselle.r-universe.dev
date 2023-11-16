@@ -54,8 +54,7 @@
   },
   {
     "package": "tekton",
-    "url": "https://github.com/tesselle/tekton",
-    "branch" : "*release"
+    "url": "https://github.com/tesselle/tekton"
   },
   {
     "package": "tesselle",
