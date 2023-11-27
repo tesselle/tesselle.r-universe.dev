@@ -45,7 +45,8 @@
   },
   {
     "package": "nexus",
-    "url": "https://github.com/tesselle/nexus"
+    "url": "https://github.com/tesselle/nexus",
+    "branch" : "*release"
   },
   {
     "package": "tabula",
