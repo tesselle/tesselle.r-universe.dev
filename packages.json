@@ -34,6 +34,10 @@
     "branch" : "*release"
   },
   {
+    "package": "janus",
+    "url": "https://github.com/tesselle/janus"
+  },
+  {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
     "branch" : "*release"
