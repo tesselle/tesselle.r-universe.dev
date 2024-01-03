@@ -34,10 +34,6 @@
     "branch" : "*release"
   },
   {
-    "package": "janus",
-    "url": "https://github.com/tesselle/janus"
-  },
-  {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
     "branch" : "*release"
@@ -46,6 +42,10 @@
     "package": "khroma",
     "url": "https://github.com/tesselle/khroma",
     "branch" : "*release"
+  },
+  {
+    "package": "kinesis",
+    "url": "https://github.com/tesselle/kinesis"
   },
   {
     "package": "nexus",
