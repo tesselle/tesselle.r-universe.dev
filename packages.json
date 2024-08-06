@@ -11,7 +11,8 @@
   },
   {
     "package": "ananke",
-    "url": "https://github.com/tesselle/ananke"
+    "url": "https://github.com/tesselle/ananke",
+    "branch": "*release"
   },
   {
     "package": "arkhe",
