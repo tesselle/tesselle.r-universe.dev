@@ -2,12 +2,12 @@
   {
     "package": "aion",
     "url": "https://github.com/tesselle/aion",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "alkahest",
     "url": "https://github.com/tesselle/alkahest",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "ananke",
@@ -17,32 +17,32 @@
   {
     "package": "arkhe",
     "url": "https://github.com/tesselle/arkhe",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "dimensio",
     "url": "https://github.com/tesselle/dimensio",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "folio",
     "url": "https://github.com/tesselle/folio",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "isopleuros",
     "url": "https://github.com/tesselle/isopleuros",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "kairos",
     "url": "https://github.com/tesselle/kairos",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "khroma",
     "url": "https://github.com/tesselle/khroma",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "kinesis",
@@ -51,12 +51,12 @@
   {
     "package": "nexus",
     "url": "https://github.com/tesselle/nexus",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "tabula",
     "url": "https://github.com/tesselle/tabula",
-    "branch" : "*release"
+    "branch": "*release"
   },
   {
     "package": "tekton",
@@ -65,6 +65,6 @@
   {
     "package": "tesselle",
     "url": "https://github.com/tesselle/tesselle",
-    "branch" : "*release"
+    "branch": "*release"
   }
 ]
