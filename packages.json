@@ -11,8 +11,7 @@
   },
   {
     "package": "ananke",
-    "url": "https://github.com/tesselle/ananke",
-    "branch": "*release"
+    "url": "https://github.com/tesselle/ananke"
   },
   {
     "package": "arkhe",
@@ -50,8 +49,7 @@
   },
   {
     "package": "nexus",
-    "url": "https://github.com/tesselle/nexus",
-    "branch": "*release"
+    "url": "https://github.com/tesselle/nexus"
   },
   {
     "package": "tabula",
