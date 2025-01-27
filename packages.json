@@ -1,68 +1,68 @@
 [
   {
     "package": "aion",
-    "url": "https://github.com/tesselle/aion",
+    "url": "https://codeberg.org/tesselle/aion",
     "branch": "*release"
   },
   {
     "package": "alkahest",
-    "url": "https://github.com/tesselle/alkahest",
+    "url": "https://codeberg.org/tesselle/alkahest",
     "branch": "*release"
   },
   {
     "package": "ananke",
-    "url": "https://github.com/tesselle/ananke"
+    "url": "https://codeberg.org/tesselle/ananke"
   },
   {
     "package": "arkhe",
-    "url": "https://github.com/tesselle/arkhe",
+    "url": "https://codeberg.org/tesselle/arkhe",
     "branch": "*release"
   },
   {
     "package": "dimensio",
-    "url": "https://github.com/tesselle/dimensio",
+    "url": "https://codeberg.org/tesselle/dimensio",
     "branch": "*release"
   },
   {
     "package": "folio",
-    "url": "https://github.com/tesselle/folio",
+    "url": "https://codeberg.org/tesselle/folio",
     "branch": "*release"
   },
   {
     "package": "isopleuros",
-    "url": "https://github.com/tesselle/isopleuros",
+    "url": "https://codeberg.org/tesselle/isopleuros",
     "branch": "*release"
   },
   {
     "package": "kairos",
-    "url": "https://github.com/tesselle/kairos",
+    "url": "https://codeberg.org/tesselle/kairos",
     "branch": "*release"
   },
   {
     "package": "khroma",
-    "url": "https://github.com/tesselle/khroma",
+    "url": "https://codeberg.org/tesselle/khroma",
     "branch": "*release"
   },
   {
     "package": "kinesis",
-    "url": "https://github.com/tesselle/kinesis"
+    "url": "https://codeberg.org/tesselle/kinesis"
   },
   {
     "package": "nexus",
-    "url": "https://github.com/tesselle/nexus"
+    "url": "https://codeberg.org/tesselle/nexus"
   },
   {
     "package": "tabula",
-    "url": "https://github.com/tesselle/tabula",
+    "url": "https://codeberg.org/tesselle/tabula",
     "branch": "*release"
   },
   {
     "package": "tekton",
-    "url": "https://github.com/tesselle/tekton"
+    "url": "https://codeberg.org/tesselle/tekton"
   },
   {
     "package": "tesselle",
-    "url": "https://github.com/tesselle/tesselle",
+    "url": "https://codeberg.org/tesselle/tesselle",
     "branch": "*release"
   }
 ]
