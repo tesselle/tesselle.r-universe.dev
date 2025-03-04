@@ -1,13 +1,11 @@
 [
   {
     "package": "aion",
-    "url": "https://codeberg.org/tesselle/aion",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/aion"
   },
   {
     "package": "alkahest",
-    "url": "https://codeberg.org/tesselle/alkahest",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/alkahest"
   },
   {
     "package": "ananke",
@@ -15,33 +13,27 @@
   },
   {
     "package": "arkhe",
-    "url": "https://codeberg.org/tesselle/arkhe",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/arkhe"
   },
   {
     "package": "dimensio",
-    "url": "https://codeberg.org/tesselle/dimensio",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/dimensio"
   },
   {
     "package": "folio",
-    "url": "https://codeberg.org/tesselle/folio",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/folio"
   },
   {
     "package": "isopleuros",
-    "url": "https://codeberg.org/tesselle/isopleuros",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/isopleuros"
   },
   {
     "package": "kairos",
-    "url": "https://codeberg.org/tesselle/kairos",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/kairos"
   },
   {
     "package": "khroma",
-    "url": "https://codeberg.org/tesselle/khroma",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/khroma"
   },
   {
     "package": "kinesis",
@@ -53,8 +45,7 @@
   },
   {
     "package": "tabula",
-    "url": "https://codeberg.org/tesselle/tabula",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/tabula"
   },
   {
     "package": "tekton",
@@ -62,7 +53,6 @@
   },
   {
     "package": "tesselle",
-    "url": "https://codeberg.org/tesselle/tesselle",
-    "branch": "*release"
+    "url": "https://codeberg.org/tesselle/tesselle"
   }
 ]
